@@ -1,6 +1,6 @@
-# 🌌 solar_system_css
+# 🌌 solar system css
 
-**solar_system_css** is an interactive, visually immersive planetary exploration UI built entirely with **HTML** and **CSS**—no JavaScript, no libraries, just pure frontend creativity. 🚀
+**solar system css** is an interactive, visually immersive planetary exploration UI built entirely with **HTML** and **CSS**—no JavaScript, no libraries, just pure frontend creativity. 🚀
 
 Explore our solar system planet by planet in a click-based, animated, and responsive interface. Whether you're a space nerd or a CSS enthusiast, this journey is for you.
 
