@@ -25,8 +25,7 @@ Explore our solar system planet by planet in a click-based, animated, and respon
 
 ## 📸 Preview
 
-![SolarCSS Preview](https://your-screenshot-url.com)  
-(*Upload a screenshot and paste the link here*)
+![SolarCSS Preview]()  
 
 ---
 
@@ -52,15 +51,14 @@ Explore our solar system planet by planet in a click-based, animated, and respon
 
 ## 🙌 Credits
 
-- **Original UI inspiration** by [Jamie Coulter on CodePen](https://codepen.io/jcoulterdesign/pen/ZxXbeP)
-- Modified, extended, and restructured by [Rishu](https://github.com/yourusername)
-
+Inspired by [Jamie Coulter's Codepen](https://codepen.io/jcoulterdesign/pen/ZxXbeP), this project takes the base idea and enhances it with custom styles, content, and a refined user experience.
 > Special thanks to the amazing open-source community for sharing creative ideas that help us grow as developers!
 
 ---
 
-## 📁 How to Run Locally
+## 📁 How to Run Locally/Setup Instructions
 
-```bash
-git clone https://github.com/yourusername/solar-css-explorer.git
-cd solar-css-explorer
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/solar-css-explorer.git
+   cd solar-css-explorer
