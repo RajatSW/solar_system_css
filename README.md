@@ -8,7 +8,7 @@ Explore our solar system planet by planet in a click-based, animated, and respon
 
 ## 🚀 Live Demo
 
-🔗 [Click here to explore the solar system](https://rajatsw.github.io/solar_system_css/)  working on it 
+🔗 [Click here to explore the solar system](https://rajatsw.github.io/solar_system_css/)
 
 
 ---
@@ -25,7 +25,7 @@ Explore our solar system planet by planet in a click-based, animated, and respon
 
 ## 📸 Preview
 
-![SolarCSS Preview]()  
+![SolarCSS Preview]() Will be their on 29 june
 
 ---
 
