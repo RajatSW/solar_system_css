@@ -23,12 +23,6 @@ Explore our solar system planet by planet in a click-based, animated, and respon
 
 ---
 
-## 📸 Preview
-
-![SolarCSS Preview]() Will be their on 29 june
-
----
-
 ## 🔧 Technologies Used
 
 - HTML5
