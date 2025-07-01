@@ -4,6 +4,7 @@
 
 Explore our solar system planet by planet in a click-based, animated, and responsive interface. Whether you're a space nerd or a CSS enthusiast, this journey is for you.
 
+![imgage alt](imgae)
 ---
 
 ## 🚀 Live Demo
