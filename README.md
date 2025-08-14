@@ -33,7 +33,7 @@ Explore our solar system planet by planet in a click-based, animated, and respon
 
 - Advanced layout and animation using only CSS
 - Responsive UI techniques
-- Building modular and semantic HTML structure
+- Building a modular and semantic HTML structure
 - Importance of attention to detail in design
 - Respect for open-source licenses & giving proper credits ✅
 
@@ -41,7 +41,7 @@ Explore our solar system planet by planet in a click-based, animated, and respon
 
 ## 🙌 Credits
 
-Inspired by [Jamie Coulter's Codepen](https://codepen.io/jcoulterdesign/pen/ZxXbeP), this project takes the base idea and enhances it with custom styles, content, and a refined user experience.
+Inspired by Jamie Coulter's Codepen, this project takes the base idea and enhances it with custom styles, content, and a refined user experience.
 > Special thanks to the amazing open-source community for sharing creative ideas that help us grow as developers!
 
 ---
